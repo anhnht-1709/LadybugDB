@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# LadybugDB local database files / folders
+db/
+*.lbug
+*.lbug.wal
+*.lbdb
+
+# OS & Editor
+.DS_Store
+.vscode/
+.idea/
