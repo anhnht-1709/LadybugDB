@@ -2,6 +2,9 @@
 
 Kho lưu trữ mã nguồn thực hành và dữ liệu minh họa cho đồ án môn **Lý thuyết đồ thị** với đề tài **LadybugDB** (nhóm 5 thành viên).
 
+- **Bài toán minh họa:** Hệ thống **Campus Graph** (Bản đồ khuôn viên trường gồm 8 tòa nhà, 13 lối đi có trọng số mét + 6 sinh viên, 4 môn học và điểm thi).
+- **Mục tiêu demo:** Đối chiếu truy vấn lọc/xếp hạng kiểu SQL (`SELECT-FROM-WHERE`) bằng Cypher và so sánh trực quan đường đi ngắn nhất không trọng số (`SHORTEST` – BFS) với có trọng số (`WSHORTEST` – Dijkstra).
+
 ## 1. Cấu trúc thư mục dự kiến
 
 ```text
