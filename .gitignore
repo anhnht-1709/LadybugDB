@@ -11,6 +11,7 @@ db/
 *.lbug
 *.lbug.wal
 *.lbdb
+*.lbdb.wal
 
 # OS & Editor
 .DS_Store
